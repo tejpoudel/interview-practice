@@ -2,13 +2,14 @@
 
 ## Question 1
 ### What is the most influential book or blog post you’ve read regarding web development?
-	In 2014, I learned Ruby on the Rails Development. In the initial phase developing Ruby on the Rainls and coding Ruby codes was tough for me, I searched the best Ruby book in the internet and found one. 
+  In 2014, I learned Ruby on the Rails Development. In the initial phase developing Ruby on the Rainls and coding Ruby codes was tough for me, I searched the best Ruby book in the internet and found one. 
 
-	"Beginining Ruby From Novice to Professional" is my best book ever in my coding life. The book taught me everything about the ruby, installation to running functions and even large stacks of codes. The author Perer Cooper taught me Ruby at all to being proficient and confident enought to develop my own web applications on the rails. I learned enough how to add HTML, CSS, and JavaScript to the Rails. I also learned how to face the coding interviews for the web developer job.
+  "Beginining Ruby From Novice to Professional" is my best book ever in my coding life. The book taught me everything about the ruby, installation to running functions and even large stacks of codes. The author Perer Cooper taught me Ruby at all to being proficient and confident enought to develop my own web applications on the rails. I learned enough how to add HTML, CSS, and JavaScript to the Rails. I also learned how to face the coding interviews for the web developer job.
 
 ## Question 2
 ###	Tell me about a web application you have built. Why did you choose to build it? What did you learn? What challenges did you face and how did you overcome them?
-	I am volunteering in 211 Sonoma County now. In the past year I developed a website for 211 Sonoma County '211sonoma.org'. It was my great project in my life. I developed a website from scratch to deploy. I am a web developer, while I was looking for a job I contacted volunteer center of Sonoma County and asked them if they have any website project to be done. The introduced me to coordinator of 211 Sonoma County and I started making website. It was challenged job for me and hard to design and code but I did it.
+
+I am volunteering in 211 Sonoma County now. In the past year I developed a website for 211 Sonoma County '211sonoma.org'. It was my great project in my life. I developed a website from scratch to deploy. I am a web developer, while I was looking for a job I contacted volunteer center of Sonoma County and asked them if they have any website project to be done. The introduced me to coordinator of 211 Sonoma County and I started making website. It was challenged job for me and hard to design and code but I did it.
 
 ## Question 3
 ###	Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list (<ul>...</ul>) of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
