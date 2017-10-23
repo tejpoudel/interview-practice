@@ -12,7 +12,7 @@
 I am volunteering in 211 Sonoma County now. In the past year I developed a website for 211 Sonoma County '211sonoma.org'. It was my great project in my life. I developed a website from scratch to deploy. I am a web developer, while I was looking for a job I contacted volunteer center of Sonoma County and asked them if they have any website project to be done. The introduced me to coordinator of 211 Sonoma County and I started making website. It was challenged job for me and hard to design and code but I did it.
 
 ## Question 3
-###	Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list '(<ul>...</ul>)' of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
+###	Write a function in Python that takes a list of strings and returns a single string that is an HTML unordered list '\(<ul>...</ul>)\' of those strings. You should include a brief explanation of your code. Then, what would you have to consider if the original list was provided by user input?
 
 ```
 python
