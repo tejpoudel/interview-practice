@@ -1,4 +1,6 @@
 # Udacity Interview Practice for FSND
+Author: Tej Poudel
+Date: 10/28/17
 
 ## Question 1
 ### What is the most influential book or blog post you’ve read regarding web development?
